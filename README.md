@@ -1,2 +1,2 @@
-# amps2
-Laboratorul 2
+# Laboratorul 2
+
